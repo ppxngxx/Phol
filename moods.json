@@ -1,0 +1,542 @@
+{
+  "happy": [
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "cover": "https://img.youtube.com/vi/ZbZSe6N_BXs/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/1.mp3",
+      "spotify": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "youtube": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+    },
+    {
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "cover": "https://img.youtube.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/2.mp3",
+      "spotify": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+      "youtube": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+    },
+    {
+      "title": "Best Day Of My Life",
+      "artist": "American Authors",
+      "cover": "https://img.youtube.com/vi/Y66j_BUCBMY/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/101.mp3",
+      "spotify": "https://open.spotify.com/track/4cNiImMGQ1rB1nRz4hJ2kF",
+      "youtube": "https://www.youtube.com/watch?v=Y66j_BUCBMY"
+    },
+    {
+      "title": "Walking On Sunshine",
+      "artist": "Katrina & The Waves",
+      "cover": "https://img.youtube.com/vi/iPUmE-tne5U/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/201.mp3",
+      "spotify": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
+      "youtube": "https://www.youtube.com/watch?v=iPUmE-tne5U"
+    },
+    {
+      "title": "Good Time",
+      "artist": "Owl City, Carly Rae Jepsen",
+      "cover": "https://img.youtube.com/vi/H7HmzwI67ec/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/202.mp3",
+      "spotify": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20",
+      "youtube": "https://www.youtube.com/watch?v=H7HmzwI67ec"
+    },
+    {
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "cover": "https://img.youtube.com/vi/QGJuMBdaqIw/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/213.mp3",
+      "spotify": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N",
+      "youtube": "https://www.youtube.com/watch?v=QGJuMBdaqIw"
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "cover": "https://img.youtube.com/vi/09R8_2nJtjg/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/214.mp3",
+      "spotify": "https://open.spotify.com/track/494OU6M7NOf4ICYb4zWCf5",
+      "youtube": "https://www.youtube.com/watch?v=09R8_2nJtjg"
+    },
+    {
+      "title": "On Top of the World",
+      "artist": "Imagine Dragons",
+      "cover": "https://img.youtube.com/vi/w5tWYmIOWGk/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/303.mp3",
+      "spotify": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8",
+      "youtube": "https://www.youtube.com/watch?v=w5tWYmIOWGk"
+    },
+    {
+      "title": "Good Life",
+      "artist": "OneRepublic",
+      "cover": "https://img.youtube.com/vi/jZhQOvvV45w/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/302.mp3",
+      "spotify": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4",
+      "youtube": "https://www.youtube.com/watch?v=jZhQOvvV45w"
+    },
+    {
+      "title": "Best Song Ever",
+      "artist": "One Direction",
+      "cover": "https://img.youtube.com/vi/o_v9MY_FMcw/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/301.mp3",
+      "spotify": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg",
+      "youtube": "https://www.youtube.com/watch?v=o_v9MY_FMcw"
+    }
+  ],
+  "sad": [
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "cover": "https://img.youtube.com/vi/hLQl3WQQoQ0/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/3.mp3",
+      "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
+      "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+    },
+    {
+      "title": "Let Her Go",
+      "artist": "Passenger",
+      "cover": "https://img.youtube.com/vi/RBumgq5yVrA/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/4.mp3",
+      "spotify": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V",
+      "youtube": "https://www.youtube.com/watch?v=RBumgq5yVrA"
+    },
+    {
+      "title": "All I Want",
+      "artist": "Kodaline",
+      "cover": "https://img.youtube.com/vi/mtf7hC17IBM/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/203.mp3",
+      "spotify": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx",
+      "youtube": "https://www.youtube.com/watch?v=mtf7hC17IBM"
+    },
+    {
+      "title": "Say Something",
+      "artist": "A Great Big World, Christina Aguilera",
+      "cover": "https://img.youtube.com/vi/-2U0Ivkn2Ds/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/204.mp3",
+      "spotify": "https://open.spotify.com/track/2kP7QzlvJ8k1P6hJQbG4cA",
+      "youtube": "https://www.youtube.com/watch?v=-2U0Ivkn2Ds"
+    },
+    {
+      "title": "Jealous",
+      "artist": "Labrinth",
+      "cover": "https://img.youtube.com/vi/50VWOBi0VFs/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/218.mp3",
+      "spotify": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM",
+      "youtube": "https://www.youtube.com/watch?v=50VWOBi0VFs"
+    },
+    {
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "cover": "https://img.youtube.com/vi/50VNCymT-Cs/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/219.mp3",
+      "spotify": "https://open.spotify.com/track/7gvd8xjA4C0bq9p6o7hU2d",
+      "youtube": "https://www.youtube.com/watch?v=50VNCymT-Cs"
+    },
+    {
+      "title": "All I Want",
+      "artist": "Olivia Rodrigo",
+      "cover": "https://img.youtube.com/vi/9XkF7yQp5g0/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/305.mp3",
+      "spotify": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V",
+      "youtube": "https://www.youtube.com/watch?v=9XkF7yQp5g0"
+    },
+    {
+      "title": "Let Me Down",
+      "artist": "Jorja Smith",
+      "cover": "https://img.youtube.com/vi/2ke2QbP1l7I/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/304.mp3",
+      "spotify": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "youtube": "https://www.youtube.com/watch?v=2ke2QbP1l7I"
+    },
+    {
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "cover": "https://img.youtube.com/vi/k4V3Mo61fJM/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/103.mp3",
+      "spotify": "https://open.spotify.com/track/6KuQTIu1KoTTkLXKrwlLPV",
+      "youtube": "https://www.youtube.com/watch?v=k4V3Mo61fJM"
+    }
+  ],
+  "angry": [
+    {
+      "title": "In The End",
+      "artist": "Linkin Park",
+      "cover": "https://img.youtube.com/vi/eVTXPUF4Oz4/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/5.mp3",
+      "spotify": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
+      "youtube": "https://www.youtube.com/watch?v=eVTXPUF4Oz4"
+    },
+    {
+      "title": "Stronger",
+      "artist": "Kanye West",
+      "cover": "https://img.youtube.com/vi/PsO6ZnUZI0g/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/6.mp3",
+      "spotify": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc",
+      "youtube": "https://www.youtube.com/watch?v=PsO6ZnUZI0g"
+    },
+    {
+      "title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "cover": "https://img.youtube.com/vi/ZpUYjpKg9KY/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/105.mp3",
+      "spotify": "https://open.spotify.com/track/2y8jo6U3bYpI4lVgD4i3gF",
+      "youtube": "https://www.youtube.com/watch?v=ZpUYjpKg9KY"
+    },
+    {
+      "title": "Numb",
+      "artist": "Linkin Park",
+      "cover": "https://img.youtube.com/vi/kXYiU_JCYtU/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/205.mp3",
+      "spotify": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "youtube": "https://www.youtube.com/watch?v=kXYiU_JCYtU"
+    },
+    {
+      "title": "Duality",
+      "artist": "Slipknot",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273666666666666666666666666",
+      "preview": "https://p.scdn.co/mp3-preview/206.mp3",
+      "spotify": "https://open.spotify.com/track/2nXJkqkS1tIKIyhBcFMmwz",
+      "youtube": "https://www.youtube.com/watch?v=6fVE8kSM43I"
+    },
+    {
+      "title": "Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "cover": "https://img.youtube.com/vi/bWXazVhlyxQ/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/221.mp3",
+      "spotify": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3",
+      "youtube": "https://www.youtube.com/watch?v=bWXazVhlyxQ"
+    },
+    {
+      "title": "Bodies",
+      "artist": "Drowning Pool",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273777777777777777777777777",
+      "preview": "https://p.scdn.co/mp3-preview/222.mp3",
+      "spotify": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1",
+      "youtube": "https://www.youtube.com/watch?v=04F4xlWSFh0"
+    },
+    {
+      "title": "Before I Forget",
+      "artist": "Slipknot",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273888888888888888888888888",
+      "preview": "https://p.scdn.co/mp3-preview/223.mp3",
+      "spotify": "https://open.spotify.com/track/2nXJkqkS1tIKIyhBcFMmwz",
+      "youtube": "https://www.youtube.com/watch?v=qw2LU1yS7aw"
+    },
+    {
+      "title": "Duality",
+      "artist": "Slipknot",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273999999999999999999999999",
+      "preview": "https://p.scdn.co/mp3-preview/224.mp3",
+      "spotify": "https://open.spotify.com/track/2nXJkqkS1tIKIyhBcFMmwz",
+      "youtube": "https://www.youtube.com/watch?v=6fVE8kSM43I"
+    },
+    {
+      "title": "Given Up",
+      "artist": "Linkin Park",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273aaaaaaaaaaaaaaaaaaaaaaaa",
+      "preview": "https://p.scdn.co/mp3-preview/225.mp3",
+      "spotify": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "youtube": "https://www.youtube.com/watch?v=0xyxtzD54rM"
+    },
+    {
+      "title": "Papercut",
+      "artist": "Linkin Park",
+      "cover": "https://img.youtube.com/vi/vjVkXlxsO8Q/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/307.mp3",
+      "spotify": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "youtube": "https://www.youtube.com/watch?v=vjVkXlxsO8Q"
+    },
+    {
+      "title": "Given Up",
+      "artist": "Linkin Park",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273888888888888888888888888",
+      "preview": "https://p.scdn.co/mp3-preview/308.mp3",
+      "spotify": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "youtube": "https://www.youtube.com/watch?v=0xyxtzD54rM"
+    },
+    {
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "cover": "https://img.youtube.com/vi/LYU-8IFcDPw/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/309.mp3",
+      "spotify": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "youtube": "https://www.youtube.com/watch?v=LYU-8IFcDPw"
+    },
+    {
+      "title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "cover": "https://img.youtube.com/vi/ZpUYjpKg9KY/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/105.mp3",
+      "spotify": "https://open.spotify.com/track/2y8jo6U3bYpI4lVgD4i3gF",
+      "youtube": "https://www.youtube.com/watch?v=ZpUYjpKg9KY"
+    }
+  ],
+  "relax": [
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "cover": "https://img.youtube.com/vi/UfcAVejslrU/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/7.mp3",
+      "spotify": "https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx",
+      "youtube": "https://www.youtube.com/watch?v=UfcAVejslrU"
+    },
+    {
+      "title": "Sunset Lover",
+      "artist": "Petit Biscuit",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e7e7e7e7e7e7e7e7e7e7e7e7",
+      "preview": "https://p.scdn.co/mp3-preview/8.mp3",
+      "spotify": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed",
+      "youtube": "https://www.youtube.com/watch?v=4DLo6rWDvJ8"
+    },
+    {
+      "title": "River Flows In You",
+      "artist": "Yiruma",
+      "cover": "https://img.youtube.com/vi/7maJOI3QMu0/hqdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/107.mp3",
+      "spotify": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm",
+      "youtube": "https://www.youtube.com/watch?v=7maJOI3QMu0"
+    },
+    {
+      "title": "Bloom",
+      "artist": "The Paper Kites",
+      "cover": "https://img.youtube.com/vi/8inJtTG_DuU/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/207.mp3",
+      "spotify": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+      "youtube": "https://www.youtube.com/watch?v=8inJtTG_DuU"
+    },
+    {
+      "title": "Sunset",
+      "artist": "The Midnight",
+      "cover": "https://img.youtube.com/vi/4h7p6nnvN6g/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/208.mp3",
+      "spotify": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom",
+      "youtube": "https://www.youtube.com/watch?v=4h7p6nnvN6g"
+    },
+    {
+      "title": "Better Together",
+      "artist": "Jack Johnson",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bbbbbbbbbbbbbbbbbbbbbbbb",
+      "preview": "https://p.scdn.co/mp3-preview/226.mp3",
+      "spotify": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "youtube": "https://www.youtube.com/watch?v=u57d4_b_YgI"
+    },
+    {
+      "title": "Banana Pancakes",
+      "artist": "Jack Johnson",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cccccccccccccccccccccccc",
+      "preview": "https://p.scdn.co/mp3-preview/227.mp3",
+      "spotify": "https://open.spotify.com/track/0z7pVBGOD7HCIB7S8eLkLI",
+      "youtube": "https://www.youtube.com/watch?v=6Graa_Vm5eA"
+    },
+    {
+      "title": "Budapest",
+      "artist": "George Ezra",
+      "cover": "https://img.youtube.com/vi/VHrLPs3_1Fs/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/228.mp3",
+      "spotify": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd",
+      "youtube": "https://www.youtube.com/watch?v=VHrLPs3_1Fs"
+    },
+    {
+      "title": "Let Her Go",
+      "artist": "Passenger",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eeeeeeeeeeeeeeeeeeeeeeee",
+      "preview": "https://p.scdn.co/mp3-preview/229.mp3",
+      "spotify": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V",
+      "youtube": "https://www.youtube.com/watch?v=RBumgq5yVrA"
+    },
+    {
+      "title": "Holocene",
+      "artist": "Bon Iver",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ffffffffffffffffffffffff",
+      "preview": "https://p.scdn.co/mp3-preview/230.mp3",
+      "spotify": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7",
+      "youtube": "https://www.youtube.com/watch?v=TWcyIpul8OE"
+    },
+    {
+      "title": "Sunflower",
+      "artist": "Post Malone, Swae Lee",
+      "cover": "https://img.youtube.com/vi/ApXoWvfEYVU/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/310.mp3",
+      "spotify": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P",
+      "youtube": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+    },
+    {
+      "title": "Location Unknown",
+      "artist": "HONNE",
+      "cover": "https://img.youtube.com/vi/K4DyBUG242c/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/311.mp3",
+      "spotify": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx",
+      "youtube": "https://www.youtube.com/watch?v=K4DyBUG242c"
+    },
+    {
+      "title": "Put It All On Me",
+      "artist": "Ed Sheeran",
+      "cover": "https://img.youtube.com/vi/ryJgDL9jzKk/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/312.mp3",
+      "spotify": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+      "youtube": "https://www.youtube.com/watch?v=ryJgDL9jzKk"
+    }
+  ],
+  "motivated": [
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "cover": "https://img.youtube.com/vi/btPJPFnesV4/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/9.mp3",
+      "spotify": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "youtube": "https://www.youtube.com/watch?v=btPJPFnesV4"
+    },
+    {
+      "title": "Stronger",
+      "artist": "Kelly Clarkson",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e8e8e8e8e8e8e8e8e8e8e8e8",
+      "preview": "https://p.scdn.co/mp3-preview/10.mp3",
+      "spotify": "https://open.spotify.com/track/0wIhWLNLIOmzQ89B3rtTd3",
+      "youtube": "https://www.youtube.com/watch?v=Xn676-fLq7I"
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "cover": "https://img.youtube.com/vi/7wtfhZwyrcc/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/109.mp3",
+      "spotify": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "youtube": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273999999999999999999999999",
+      "preview": "https://p.scdn.co/mp3-preview/209.mp3",
+      "spotify": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g",
+      "youtube": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+    },
+    {
+      "title": "Remember The Name",
+      "artist": "Fort Minor",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "preview": "https://p.scdn.co/mp3-preview/210.mp3",
+      "spotify": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ",
+      "youtube": "https://www.youtube.com/watch?v=VDvr08sCPOc"
+    },
+    {
+      "title": "Stronger",
+      "artist": "Kanye West",
+      "cover": "https://img.youtube.com/vi/PsO6ZnUZI0g/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/231.mp3",
+      "spotify": "https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc",
+      "youtube": "https://www.youtube.com/watch?v=PsO6ZnUZI0g"
+    },
+    {
+      "title": "Hall of Fame",
+      "artist": "The Script ft. will.i.am",
+      "cover": "https://img.youtube.com/vi/mk48xRzuNvA/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/232.mp3",
+      "spotify": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh",
+      "youtube": "https://www.youtube.com/watch?v=mk48xRzuNvA"
+    },
+    {
+      "title": "Remember the Name",
+      "artist": "Fort Minor",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dddddddddddddddddddddddd",
+      "preview": "https://p.scdn.co/mp3-preview/233.mp3",
+      "spotify": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ",
+      "youtube": "https://www.youtube.com/watch?v=VDvr08sCPOc"
+    },
+    {
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis",
+      "cover": "https://img.youtube.com/vi/2zNSgSzhBfM/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/234.mp3",
+      "spotify": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "youtube": "https://www.youtube.com/watch?v=2zNSgSzhBfM"
+    },
+    {
+      "title": "On Top of the World",
+      "artist": "Imagine Dragons",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ffffffffffffffffffffffff",
+      "preview": "https://p.scdn.co/mp3-preview/235.mp3",
+      "spotify": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8",
+      "youtube": "https://www.youtube.com/watch?v=w5tWYmIOWGk"
+    },
+    {
+      "title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "cover": "https://img.youtube.com/vi/gOsM-DYAEhY/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/313.mp3",
+      "spotify": "https://open.spotify.com/track/2LLANkDku6eQ9P5hMmW1NZ",
+      "youtube": "https://www.youtube.com/watch?v=gOsM-DYAEhY"
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "cover": "https://img.youtube.com/vi/1k8craCGpgs/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/314.mp3",
+      "spotify": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo",
+      "youtube": "https://www.youtube.com/watch?v=1k8craCGpgs"
+    },
+    {
+      "title": "Unstoppable",
+      "artist": "Sia",
+      "cover": "https://img.youtube.com/vi/cxjvTXo9WWM/maxresdefault.jpg",
+      "preview": "https://p.scdn.co/mp3-preview/315.mp3",
+      "spotify": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B",
+      "youtube": "https://www.youtube.com/watch?v=cxjvTXo9WWM"
+    }
+  ],
+  "artistPlaylists": {
+    "Pharrell Williams": [
+      {
+        "title": "Happy",
+        "mood": "happy",
+        "cover": "https://img.youtube.com/vi/ZbZSe6N_BXs/maxresdefault.jpg",
+        "preview": "https://p.scdn.co/mp3-preview/1.mp3",
+        "spotify": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+        "youtube": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"
+      }
+      
+    ],
+    "Justin Timberlake": [
+      {
+        "title": "Can't Stop The Feeling!",
+        "mood": "happy",
+        "cover": "https://img.youtube.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
+        "preview": "https://p.scdn.co/mp3-preview/2.mp3",
+        "spotify": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+        "youtube": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+      }
+      
+    ],
+    "Adele": [
+      {
+        "title": "Someone Like You",
+        "mood": "sad",
+        "cover": "https://img.youtube.com/vi/hLQl3WQQoQ0/maxresdefault.jpg",
+        "preview": "https://p.scdn.co/mp3-preview/3.mp3",
+        "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
+        "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+      }
+      
+    ],
+    "Justin Timberlake": [
+      {
+        "title": "Can't Stop The Feeling!",
+        "mood": "happy",
+        "cover": "https://img.youtube.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
+        "preview": "https://p.scdn.co/mp3-preview/2.mp3",
+        "spotify": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+        "youtube": "https://www.youtube.com/watch?v=ru0K8uYEZWw"
+      }
+      
+    ],
+    "Adele": [
+      {
+        "title": "Someone Like You",
+        "mood": "sad",
+        "cover": "https://img.youtube.com/vi/hLQl3WQQoQ0/maxresdefault.jpg",
+        "preview": "https://p.scdn.co/mp3-preview/3.mp3",
+        "spotify": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB",
+        "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
+      }
+      
+    ]
+   
+  }
+}

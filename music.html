@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>Music Mood Playlist</title>
+    <link rel="stylesheet" href="music.css">
+    <script src="https://kit.fontawesome.com/8b2e8e6c7a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="bg-youtube"></div>
+    <div class="container">
+        <h1>วันนี้คุณรู้สึกยังไง?</h1>
+        <div class="mood-select">
+            <button class="mood-btn" data-mood="happy" title="มีความสุข">😊</button>
+            <button class="mood-btn" data-mood="sad" title="เศร้า">😢</button>
+            <button class="mood-btn" data-mood="angry" title="โมโห">😡</button>
+            <button class="mood-btn" data-mood="relax" title="ผ่อนคลาย">😌</button>
+            <button class="mood-btn" data-mood="motivated" title="ฮึกเหิม">💪</button>
+        </div>
+        <div class="ai-analyze">
+            <input type="text" id="ai-text" placeholder="หรือพิมพ์ความรู้สึกของคุณ...">
+            <button id="ai-btn">วิเคราะห์อารมณ์ด้วย AI</button>
+        </div>
+        <div id="playlist-section"></div>
+    </div>
+    <script src="music.js"></script>
+</body>
+</html>
